@@ -1,0 +1,13 @@
+D:\Zach\source\repos\GameOfWar\GameofWar\bin\Debug\netcoreapp3.1\GameofWar.exe
+D:\Zach\source\repos\GameOfWar\GameofWar\bin\Debug\netcoreapp3.1\GameofWar.deps.json
+D:\Zach\source\repos\GameOfWar\GameofWar\bin\Debug\netcoreapp3.1\GameofWar.runtimeconfig.json
+D:\Zach\source\repos\GameOfWar\GameofWar\bin\Debug\netcoreapp3.1\GameofWar.runtimeconfig.dev.json
+D:\Zach\source\repos\GameOfWar\GameofWar\bin\Debug\netcoreapp3.1\GameofWar.dll
+D:\Zach\source\repos\GameOfWar\GameofWar\bin\Debug\netcoreapp3.1\GameofWar.pdb
+D:\Zach\source\repos\GameOfWar\GameofWar\obj\Debug\netcoreapp3.1\GameofWar.csprojAssemblyReference.cache
+D:\Zach\source\repos\GameOfWar\GameofWar\obj\Debug\netcoreapp3.1\GameofWar.AssemblyInfoInputs.cache
+D:\Zach\source\repos\GameOfWar\GameofWar\obj\Debug\netcoreapp3.1\GameofWar.AssemblyInfo.cs
+D:\Zach\source\repos\GameOfWar\GameofWar\obj\Debug\netcoreapp3.1\GameofWar.csproj.CoreCompileInputs.cache
+D:\Zach\source\repos\GameOfWar\GameofWar\obj\Debug\netcoreapp3.1\GameofWar.dll
+D:\Zach\source\repos\GameOfWar\GameofWar\obj\Debug\netcoreapp3.1\GameofWar.pdb
+D:\Zach\source\repos\GameOfWar\GameofWar\obj\Debug\netcoreapp3.1\GameofWar.genruntimeconfig.cache
